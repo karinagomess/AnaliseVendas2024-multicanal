@@ -69,6 +69,10 @@ Com isso, a solução entrega uma experiência prática e completa para o acompa
 
 ---
 
+# Imagem do Painel
+<img width="1258" height="704" alt="Painel Geral" src="https://github.com/user-attachments/assets/976cf896-91ce-41f4-ae87-93236f4030c9" />
+
+---
 ## 👩‍💻 Autora
 
 **Karina Gomes**  
@@ -77,6 +81,7 @@ Apaixonada por dados e visualização
 ---
 
 ## 🗂️ Tags
+
 
 `#PowerBI` `#Dashboard` `#Vendas` `#BI` `#VisualizaçãoDeDados` `#AnáliseDeNegócio` `#Excel`
 
